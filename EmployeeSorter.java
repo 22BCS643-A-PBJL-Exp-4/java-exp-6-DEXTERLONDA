@@ -39,3 +39,7 @@ public class EmployeeSorter {
     }
 }
 
+// output:
+// Sorted by name: [(Deepak Yadav, 20, 50000.0), (Dev karan, 21, 55000.0), (Nitesh kumar, 22, 60000.0)]
+// Sorted by age: [(Deepak Yadav, 20, 50000.0), (Dev karan, 21, 55000.0), (Nitesh kumar, 22, 60000.0)]
+// Sorted by salary: [(Deepak Yadav, 20, 50000.0), (Dev karan, 21, 55000.0), (Nitesh kumar, 22, 60000.0)]
