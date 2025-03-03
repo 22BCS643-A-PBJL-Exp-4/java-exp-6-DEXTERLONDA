@@ -35,3 +35,7 @@ public class StudentFilter {
         System.out.println("Students scoring above 75%, sorted by marks: " + topStudents);
     }
 }
+
+
+// output:
+// Students scoring above 75%, sorted by marks: [Abhijeet, Deepak Yadav, Aditya]
