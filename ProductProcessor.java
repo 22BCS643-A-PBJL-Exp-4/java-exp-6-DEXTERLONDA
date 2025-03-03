@@ -50,3 +50,9 @@ public class ProductProcessor {
         System.out.println("Average price of all products: $" + averagePrice);
     }
 }
+
+
+// output:
+// Products grouped by category: {Electronics=[Laptop (Electronics, $1200.0), Phone (Electronics, $800.0), TV (Electronics, $1500.0)], Furniture=[Sofa (Furniture, $700.0), Table (Furniture, $300.0), Chair (Furniture, $150.0)]}
+// Most expensive product in each category: {Electronics=Optional[TV (Electronics, $1500.0)], Furniture=Optional[Sofa (Furniture, $700.0)]}
+// Average price of all products: $775.0
